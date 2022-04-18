@@ -22,7 +22,7 @@ I have created a story and have asked the user to input various nouns, adjective
 
 #### What have you not done for your project yet?
 
-I still have to add some final touches and ensure everything is correct. I also want to add something else to my project, such as some sort of graphic or image if possible. 
+I still have to add some final touches and ensure everything is correct. I also want to add something else to my project, such as some sort of graphic, image, or different colored fonts if possible. 
 #### What problems, if any, have you encountered?
 
 So far, I have not encountered any problems in my madlibs project. 
